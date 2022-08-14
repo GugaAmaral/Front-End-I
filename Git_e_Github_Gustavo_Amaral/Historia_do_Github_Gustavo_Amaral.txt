@@ -1,0 +1,8 @@
+a. Quem invento o sistema de controle de versão Git e por quê?
+R: O sistema de controle de versão Git, foi criado por Linus Torvalds, criador do Linux
+b. Quem atualmente é o dono do Github e por quê?
+R: O atual dono da Github é a Microsoft, como forma de monopolizar o controle de desenvolvimento de códigos, 
+fazendo com que mais desenvolvedores criem produtos para seu mercado.
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: Só é possível ter acesso pelo próprio Github, sendo até possível o acesso pelo VS Code,
+mas que de qualquer forma tem que estar integrado com extensão do Github.
